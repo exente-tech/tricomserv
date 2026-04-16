@@ -204,7 +204,7 @@ export const siteData = {
     },
     submitLabel: "Trimite",
     submitPendingLabel: "Se trimite...",
-    meta: "Formularul este pregătit pentru integrare cu endpoint-ul final al clientului.",
+    meta: "",
     honeypotName: "website",
     source: "website-contact-form-tricomserv",
     defaultRequestType: "Cerere generală",
