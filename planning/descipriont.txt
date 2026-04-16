@@ -1,0 +1,395 @@
+Absolutely — here is the **updated website structure** explained more clearly.
+
+The main idea is to present the company in a way that is easy to understand for visitors and potential clients.
+
+## Why the structure was updated
+
+Before, the manufacturing operations and the pumping systems activity were described together. That can create confusion, because visitors may not immediately understand what the company’s **main business** is.
+
+Since the company’s primary activity is **assembling pumping systems**, that should be the central message of the website.
+
+The **contract manufacturing services** should appear as a separate offer. This makes the company look more focused and more professional.
+
+## Recommended website structure
+
+### 1. Homepage
+
+This page should present the company clearly and quickly.
+
+It should communicate:
+
+* who the company is
+* what it mainly does
+* what industries or applications it serves
+* that it also offers contract manufacturing services
+
+The homepage should guide visitors toward the two main directions:
+
+* pumping systems
+* contract manufacturing
+
+### 2. Pumping Systems
+
+This should be one of the main pages, because it reflects the company’s core business.
+
+This section should describe the company’s solutions for:
+
+* pressure boosting
+* firefighting
+* water management
+
+This page can also include:
+
+* types of systems
+* application areas
+* technical reliability
+* customization capability
+
+### 3. Contract Manufacturing
+
+This should be a separate page or a clear separate section.
+
+Its purpose is to show that the company can also work for outside customers as a manufacturing partner.
+
+This section should present:
+
+* machining
+* stamping
+* welding
+
+It should be positioned as an additional B2B service, not as the main identity of the company.
+
+### 4. About the Company
+
+This page should build trust.
+
+It can present:
+
+* the company background
+* production experience
+* team and expertise
+* commitment to quality
+* industrial know-how
+
+### 5. Contact
+
+This page should make it easy for potential customers to reach out.
+
+It can include:
+
+* inquiry form
+* phone
+* email
+* address
+* call to action for project discussions
+
+---
+
+## Suggested navigation
+
+A simple and clean top menu could be:
+
+* Acasă
+* Sisteme de pompare
+* Producție la comandă
+* Despre noi
+* Contact
+
+---
+
+## Why this works better
+
+This structure helps because:
+
+* the company’s main activity is immediately clear
+* visitors looking for pumping systems find the right content quickly
+* B2B manufacturing clients also see a dedicated service page
+* the website feels more organized and credible
+
+---
+
+## Example of the logic behind the structure
+
+The visitor journey would be:
+
+On the homepage, they first understand that the company specializes in pumping systems.
+
+Then, if they are interested in outsourcing manufacturing work, they can go to the separate **Producție la comandă** page and see the available capabilities there.
+
+This keeps the messaging clean:
+
+* **main business** = pumping systems
+* **secondary service** = contract manufacturing
+
+---
+
+## Romanian page names
+
+Here is the structure with Romanian titles:
+
+* **Acasă**
+* **Sisteme de pompare**
+* **Producție la comandă**
+* **Despre noi**
+* **Contact**
+
+---
+
+If helpful, I can next write the full content for each of these pages in Romanian.
+
+CONTENT:
+Great — I’ll draft **full website content in Romanian**, while keeping this explanation in English.
+
+The tone will be **professional, industrial, and clear**, suitable for a Romanian B2B audience.
+
+---
+
+# 🌐 Full Website Content (Romanian)
+
+---
+
+## 🏠 **Acasă (Homepage)**
+
+![Image](https://images.openai.com/static-rsc-4/aasnxhxvVJg-mIQxioQutRaGz8QYlvZ6m-e0T_WAT_F8bfiurvDO-OwXExwMVhP-AhkhlhlVjuzUgtHmIVyv8udGvnqziq8igq6nYr7mNAIH9XnzgSRBSkNzd06yUQXVcQdZ15m8XPaX3eyWVAKGpz0f3H7HCeHrjGRjpt_jc5UJM5yHi0eMzHQv4bYcAD0e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/330tUAArd67AhaGmEo4xP9J76m1kczEOehJjYFAJuuCKP-JyHKfqxTPXDcrb3CJqYv5IYs9ELA-RxxWWpM0UL7sxRl3u1oXoPUmME6uV81N_37ZJjwJLv1cgnZCgZpPTvrFR51mAONLF9WXI70rlTNuT-2ol_7LGq0lg4f9EcEcsx1FxHtk4y3RX3d6KjC0s?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DltSVUQXmJkImFNLi4zTXZoN7G9XAkdNsE9_lVnBx7oFS36f4xzDjROn6J3hJjw9nfQRz_d2tn73-dMRmYf2SuIfz9dA6bPVL0OrJD6o8BFvs08iFBpbrMPOuW7L73JyeEoTfeRu1NRQc_5T5C39h4Ey47M7YaDlimqpxVAGDJLebp0_dFrscaFOVy5jKCxh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e3xoo2DmBSNio6ZK8Hl7yD4JnuccK3FMgnY_b4vqMKBzj_sDKLJW179VAHJKeeOxqmmUlxCNy2vskBVurv1nooTLUTL2_dGIUhhKrx2Ai0GuiTaeIF04Au7pvTo9mI8eOsVRnzuchoz5iu0l0mQKQ-q4TCATSjmQPIe-rIWQF_QjugiWQQLkPzsKQSDOeGlx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bKDBAI2h7wXwIDL-jP40oTHNLdltmPx-si96H9Nltj1t_Vc2Ck52LhbhRehhYnKd4izIVjTqNWT9mdJhzrPqa0Eg9wTrEVcLPvvLNyqsgDoHn1qseKwfwlNzZUbyJb1Eyi6UbVm_k3iorSSTZJdsbbHcDnQcfHDxVtSNGGTRXWuQeZMWa3UCiqNWZddM_8b_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pDlKwwtvYHEChWmbtK-NLJmVlMlF07tGkY1vvv41s4W3-1jv-PHfJbbjZ4iuu-bpEMg-Cb44nkAKb9KVny55lXKsPUuqMsQtxqwvC4pm8LIU2TLSy1NOrgAPm37tmREpuEvAyIS8Itww-fyEg5CKsnzRmNowC1zgLbmOq4DJxqV9QFQRb1hXVSgOMlUFL_7J?purpose=fullsize)
+
+### **Soluții complete de pompare pentru aplicații industriale**
+
+Compania noastră este specializată în asamblarea și livrarea de sisteme de pompare pentru creșterea presiunii, stingerea incendiilor și managementul apei.
+
+Oferim soluții fiabile, adaptate cerințelor fiecărui proiect, respectând standardele tehnice și de siguranță aplicabile.
+
+---
+
+### **Domenii de aplicare**
+
+* clădiri comerciale și rezidențiale
+* aplicații industriale
+* infrastructură de apă
+* sisteme de protecție la incendiu
+
+---
+
+### **Serviciile noastre**
+
+* proiectare și configurare sisteme
+* asamblare echipamente
+* testare și control calitate
+* suport tehnic
+
+---
+
+### **Producție la comandă**
+
+Pe lângă activitatea principală, oferim servicii de fabricație pentru clienți externi, utilizând capacitățile proprii de producție.
+
+👉 Aflați mai multe în secțiunea **Producție la comandă**
+
+---
+
+## 💧 **Sisteme de pompare**
+
+![Image](https://images.openai.com/static-rsc-4/CjJ_aDP6KGwPkmWein46vEGsn6yygXsYtiRd1X8RXC74bDRGyy1UbibFRjnPUxipBaKbKvX-4PFv041_DGWwp3y2HXOgOPk5NzXllUoJ_GM5oniYdyfUiDarA_lk9PmEyops2l6eimTgJM5xRDR42mIF6kS8FF1q1SgTWLx6zCTscyOhaPlCubdsXqvAtmyh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Gl7ZsnB_zvXwxM8qHvhn8-0HkU_4ByfDFlODeLHDXl6l3osos_ZClvFTR1yuwnAg1cjhvTnaFdRBDlLz7bfhzd7hQHS8IMJkYPT8PXwDKyh11ehdHxAacxb2YsGGJYgM8nJYkKQF4qLxOm5PaaWm-bgXgBCRcn3YxAC0-t4ms7VbnbX6cmTxEsd6jIJaEiOa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/u7Z3qGitPHp4CSl02uEJ6nbnHcvBjyD9snPSzjiYBF1P37brqon6OXIdClf7x8XNxMxHWQiDnNalHoE6OF4vvgFpcQkNUG-MpY5t4T4X41rwID6rRlS0R2a5Ekw-SVnpy0k8BVXpa5FIP2EwtI3_f8KRA0y1chppIOkozEvhvt5JIc_7r-2pvIcJ2KZ6P0ex?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vndNSQ6_xdkWYkI2V-P21ZLuGwdKq1HpN6ch0BVux1RcAEuymIgPrQgjHldjbcViaP_K789FE6C7iKnntgKJd6YCcne9JdNdf1StmOFkhwHcOXo8WKOMujLJ9MrSpfP6viLIQGUYpRjHKDc4sW9EmqeTKroGZHin8WUl8rRvdO6aGM3GfpNSkbmPImQygQoO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iTA6ivaHgqzKQp0cATfWE08FolPGM2ojnfvCvq7SgAEA3FZfQNb3s50pE8Wz6U4a_4VPTNqLdsSdhy_abCTXYjXHEh06ie53ayD3a0OX8sOvdEEkBceWeJZBQtIrpBENZPiIEJZ_UeGYKsYtt8dzjzO-mjG1NH009J4WHYquFempwwJPMddCFqC7DTG2bkP0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/saOh-xs7E9hSBZ105kP2vCgKw0jayCXgIVESKbhl076msM9bL1RWF0_-7WZ6SVxwxlbGR5xUvCTSPIsxOnyYvCVu7NicE-fB45_WCv8w3GBuJvuu5hX7N8ppxDpzoEFKu9uVSzCQm3Xb16jMJWadSP9BulJs9ToZVc-apH4vwQ9UTGhjk65x1jkdDNT1-2wL?purpose=fullsize)
+
+### **Sisteme de pompare pentru aplicații diverse**
+
+Proiectăm și asamblăm sisteme de pompare adaptate cerințelor tehnice ale fiecărui proiect, asigurând performanță și fiabilitate pe termen lung.
+
+---
+
+### **Tipuri de sisteme**
+
+**Sisteme de creștere a presiunii**
+Soluții eficiente pentru menținerea presiunii optime în rețelele de apă.
+
+**Sisteme de stingere a incendiilor**
+Echipamente conforme cu standardele specifice, destinate protecției la incendiu.
+
+**Sisteme pentru managementul apei**
+Soluții pentru transportul, distribuția și controlul apei în aplicații industriale și civile.
+
+---
+
+### **Avantaje**
+
+* soluții personalizate
+* echipamente de înaltă calitate
+* fiabilitate operațională
+* respectarea standardelor tehnice
+
+---
+
+## 🏭 **Producție la comandă**
+
+![Image](https://images.openai.com/static-rsc-4/G8CIcrrqnqyDHOCrRvcPgda54eXAJI94hW37zzrdF42ZS9WOox3-VEVhulEcjsZzprdFWgrWpYGYdrqZyiIORAeIs2w1QNP33DupRafcs50eFNtOxEnB_G3rWR3jDT063pgN_-hW4wyiwwvKOCo3ClA-k_FwbkiXXjmv965mfhQftZCukWLsMalQffMpr3JI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lB3VcIxO0LON7ap_kduwuHfCSfraBglq-G9slxwSA1TQqa98eeWLlixSCL3ixBI34dQn6tJRJaozPUCq4CDcglRiCcFB2MEUVupnwqufm52Ufy0MRwzc1TZOF4AZ6TiSeh8NvwmU06914R9prXFjVBTCYJ7t8enVMbA91idWBy2_sLdmM9sk44lJJ1F5brtV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LDteRhjB9N_F4n3ORfxKlObuXb2moewZoy_SvbQXmL-bi_6pTGAy_2kCdezPnBQdlSPEjx_jX2u5m_AIBf8tXgc6dGkGeLlmzOt5mrJnjWLFcOfpoWyXlX2P2qcXxUbH8Z0eR2GlcLhr73kxQmVEQmtjbg-qHs2WipX4EQFAoRugvAD7tl-CC9s9KPyit7iC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dqMopY9p_CtpxliiTVAKUgn4vMZP_GAj-E8j942l2zMeiv3JEd_zmPTtgcC8OfJRds10KsmjBzUEb0QT7-A_kqw2kC2j5ALTM5-9p7zHB26y6I0RvmzlSo3Ea1ecZcPwOjHyk_UkwPaza62lYGlwfIt2K9uxlg6hNdZyCzxa_5HQU81ivCpHnxj2D9cCcAXd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-Hf8HedeTlS_DHzK9qSdVDV0pl90mN-lPMW2kay0IqY8xGqAxqbiNlQ42Yzn9rUW8ywqTtnb-yl2YMtJIk4fV6eH8gS2nFrZncyU0eHUWVgtEytiDbalkwPaQI4hdzyjWpcutBPWEGO0oSgA6MQEYLxIqgL7j8Z5BFbOyyjf8wlJRj3EIErwZIjPPW2ati94?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RoztFNc6mqgKc1spv26l8HT2DpXNQT9KEJ63yCGzcv16Td8uJ9OZfySkhGMQo6xwxGkWmntKYlrUkiJhVLRxmwSoU0M023rHt2VO4nqFbO_TKv7fq-jgB3gfazes47RPjqbsg-T9MpAQAFluqInIMmkBRhJ2MXsTZQbLFm7R1cI-tyDv3oGkerIV2VjlFxod?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QMCMya2LsyjHANUrOxCNbszKA7YlZ0BOoF8-8ouwa6I55y63J1PcVMhyznSyXfbrj0bi9fS6A3GSkgfck53AO7T1DFsWMXQTPHMN7hrlnTRqSpEvP3b4PaiUWVlXw7cd14XsuoXsBDxOI8UkbP0xXbNRZ2sRAkDG7QPO-4rMQf5BORnj7aSiM2iKQI88sNP_?purpose=fullsize)
+
+### **Servicii de fabricație pentru clienți externi**
+
+Punem la dispoziția partenerilor noștri capacitățile noastre de producție pentru realizarea de componente și subansamble metalice.
+
+---
+
+### **Capabilități de fabricație**
+
+**Prelucrări mecanice**
+
+* strunjire
+* frezare
+* găurire
+* filetare
+
+**Ștanțare**
+Execuție de piese metalice pentru diverse aplicații, în serii mici și medii.
+
+**Sudură**
+
+* sudură MIG/MAG
+* sudură TIG
+* sudură electrică
+
+---
+
+### **Servicii oferite**
+
+* producție la comandă
+* execuție de componente metalice
+* prototipare
+* serii mici și medii
+
+Ne adresăm companiilor care au nevoie de un partener de încredere pentru producție industrială.
+
+---
+
+## 🏢 **Despre noi**
+
+![Image](https://images.openai.com/static-rsc-4/pFZc6KugpC00mwumLySzYOlm-bLPiKgz4LpGwOHFSRefEx8VAA4-lDZs3bKf2v516w2BQXnPNK54ZmN2YXafMPXOA5PbfDv-PK-FF8eJvjkigqcKeTFPI9WzFXVG-qilPRW0IZ6ZC4r-CmwBvi5Or585R78TNXPDc2-zD7HnPq_zIsUx3Tv3M9OsSUclvYVd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/35mByabh6GSBWU1inBJ0zGK215Z9XiwYN3X1GNnKWTOwuj9RKmkoGCdiMTNuGqHhQzieApTXhhWRVmpjnlaUnnWXjXiNz0G-mbRN94Vuf-I68sjakZJ5ZZV6UkwOoZZZWV5jUft7M9sc96vdZKbBE4dW7hYIu2v_O0V0S6mcSN7rzQYGXmSRWDBjL3AUQrEb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ORyh4MwmSt2Yhz5pbRxa6zcFD7t7LqQJbZQ7c6kAnf629MzF3lr6lauLfbz0Z-_fXx_EgEMj_1buxAfbUYEcuGKKXDq7EDd90ArXRzKw8EkTVQFK6aziCz4E2hi8Ep7j6zMLP2wtmLfwJryuuCPrsS8VCVIJhXN-rDhZu86oDktnnG7CulIMs6uiiqJRAZDW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vD3N3TPnVNqCw6nRrqZZlbxNaUtDfcgzPuwXE40UxeaQDXBkHZZEWF4beiCqoM-XlVJpM7xo1z0bMQMELX6udhcLO3zkCR4D0ulSgp7WjD-W9BFwm6GwEpfj1gufBCfsmDb0BvRjG9UclkPIP_JL_LQMb51gYxFJCRHXRc6XATOB7HkyvsdIVmchcIpgzjuW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uBPFanCVle67WckjCMmZeY7v6w4NZbxdB7awJ6XO6-RzP6O_PhjwumPWYvH82K8YuMPkoru3368qGtQCoqAhOLJdcBoqIJDVMsreuKHoiAlGnMNgiKFMTqcZfyOM8iINKLPln7RCBdtkNdqCwmm2_XmCk-ZVsv5DTIh_szNmy2Omh7iDtMLwBHUIg0PqHVSL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CbxxylWDtSjP0L5wcAVMRWSBEYptF5pXdb5z_OsTs6e4s3yF4YAyoYaXb6OWPjVOwVeqpBpg3n7b5hi8UDFy1cZW0hr-501IeNBPRzVsi9xlossMnMHOaaRLpcnohSoyVbTDZb0jvMP0lkuyq5W2KMVhZq78awTmqXgXXSOnGQvvILbCcY3FwNCy_3LMjF1v?purpose=fullsize)
+
+### **Experiență și profesionalism în industrie**
+
+Compania noastră activează în domeniul echipamentelor industriale, având experiență în asamblarea sistemelor de pompare și în producția de componente metalice.
+
+---
+
+### **Misiunea noastră**
+
+Să oferim soluții tehnice fiabile și servicii de producție de înaltă calitate, adaptate cerințelor clienților noștri.
+
+---
+
+### **Valori**
+
+* calitate
+* seriozitate
+* flexibilitate
+* orientare către client
+
+---
+
+### **Capacitate de producție**
+
+Dispunem de echipamente moderne și de personal calificat, ceea ce ne permite să gestionăm proiecte variate, de la prototipuri la serii de producție.
+
+---
+
+## 📞 **Contact**
+
+![Image](https://images.openai.com/static-rsc-4/tuIz0D_83EWQ161HZsSnhP_g9UlDoJileShGbbdKZPSSpemY7PHVNP0sye6NuVTcF9ACLFGEsxJxBpDQ66X922VZLiq1fIlLD_0oxKjRGjiFlCVfkKy3S45YpJERnHC1EzMXc6jaEuVryz4ww5q056dHa9hJfXWSWH6nAqsi-LpW-x7ykOluCTpqw9Na-hY0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BOX4-1aKs9d0WEj7T9bOFAfRxKPsjEEq8DlDymAxxdKwNW4tiSKqOnk-lTuYUdOXt2ZJdDFw5ZBUmrSmj85ajcpTdxUCJkl8J_wLnAFnDDOq7pPC6aoma4Nhxm6GKdKSXTIP77t76W1XYyBfdQ4UbS-BxzmRGhMieqwB0BiCbFA-lvWYZ3g4LDv8eaEH-hZR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/u0OsgCp0TvgmCbGIJhg4QNUme_m0Oq3NM3Y3do6VJvQg4Q-gxfq1VwmXHPB0jVtD4RA_-hBrIEMEb3t77gpDGS67YHwGMy3lhEoaT6qYMshdjya_1cL0YHPFIS27KJtPvQilh-xlJCJJzPipLnBkVcCMGePue5oX9C_YBynalgdCIRNlsR1VMZD8XHHXLGfk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J5TJkUPVu8RFoVtdON1PqFpOjm2hsrXxnCOU0i9zMARO1kWIqMq_Z_wIbt2p5N-MRQMVm1pKgFNiVrnpHyijPipIZGNakfeUQ21W97Bb3ZYtmtnLJQMmH_0w7m8k7lPSyEdD-pRnku_5JiSqMiRQad5EC3k6MHH7K8xTMF4xRzAz_DABD-dXkrY9wNLuYmTn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aFZj58q6BSMeSwCgYvIa_fnu1nZkvOapYxiJTGQDxTnP86tzgzLXXuukpiAQEXUzqPNSNAlYsqLuFaTb4aJn09Up2iaxKFZCyVwgirEBEzy_8IduT1oyWpsPUi_gQRwzCLEyvcrqGgtURQnF9wan2ap2KNhtJDtJThnUb7r5opCAeZ-A7FHOZfY9XOFIxJuP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8YdgMZci441AYswkWDSBS7ZOb8ihstKvoCBaN3YcXBmiNdOJPq-K1q9Z9ShZJFKGZd95UgKLw5j7YBOgDvlKCoxiIcU2c5546D_3ez1fbNyrv7bf8Vos7fI7Rg1nsrtgIOoSfZcgOPv1IXTskripwRF71vrqb5BcDQX-AOEjWJViT13mWOsogLdjMmcMy95e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/epzZYXem856a0mfGcc1b_RdK2qnRJu_kXavYM0Y9NF8Uccee2ZpyihotWt1lNSXrj-VRHld1hCAnXPk46LMy77_DGTNTbywhVt5CBCISxbkiFVf16V97ORbBSJ3ti0cime_BmGuaDr07DXJYMPLU2jMk6qSgibXQKU9tj7h6J0W_1_YDL5sLkH71Dx9GLlBO?purpose=fullsize)
+
+### **Contactați-ne**
+
+Pentru informații suplimentare sau solicitări de ofertă, vă rugăm să ne contactați.
+
+---
+
+**Adresă:**
+[Introduceți adresa]
+
+**Telefon:**
+[Introduceți numărul de telefon]
+
+**Email:**
+[Introduceți adresa de email]
+
+---
+
+### **Solicitați o ofertă**
+
+Trimiteți-ne detaliile proiectului dumneavoastră, iar echipa noastră vă va răspunde în cel mai scurt timp.
+
+---
+
+# ✅ What you now have
+
+You now have:
+
+* full Romanian website content
+* clear separation of core business vs manufacturing
+* professional tone suitable for industrial clients
+
+---
+
+## 👉 Next step (recommended)
+
+If you want to push this further, I can:
+
+* adapt this into a **real website layout (wireframe)**
+* optimize wording for **SEO in Romanian**
+* or make it sound more **premium / high-end industrial brand**
+
+Just tell me 👍
+
+
+

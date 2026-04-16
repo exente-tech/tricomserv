@@ -1,0 +1,93 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { siteData } from "../data/site";
+
+const page = siteData.pumping;
+---
+
+<MainLayout title={page.title} description={page.description}>
+  <section class="page-hero">
+    <div class="container">
+      <h1>{page.heading}</h1>
+      <p class="page-copy">{page.intro}</p>
+      <span class="title-underline" aria-hidden="true"></span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-heading">
+        <p class="section-label">Sisteme</p>
+        <h2>{page.categoriesTitle}</h2>
+      </div>
+
+      <div class="card-grid three">
+        {page.categories.map((item) => (
+          <article class="card">
+            <h3>{item.title}</h3>
+            <p>{item.body}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-band">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Proces</p>
+        <h2>{page.processTitle}</h2>
+        <p class="section-copy">{page.processIntro}</p>
+      </div>
+
+      <div class="process-grid">
+        {page.processSteps.map((item, index) => (
+          <article class="step-card">
+            <span>{index + 1}</span>
+            <strong>{item}</strong>
+            <p>{page.process[index]}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Beneficii</p>
+        <h2>{page.benefitsTitle}</h2>
+      </div>
+
+      <div class="list-panel compact-panel">
+        <ul class="feature-list">
+          {page.benefits.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-band">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Argumente</p>
+        <h2>{page.reasonsTitle}</h2>
+      </div>
+
+      <div class="list-panel compact-panel">
+        <ul class="feature-list">
+          {page.reasons.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section cta-banner-section">
+    <div class="container">
+      <div class="cta-banner">
+        <h2>Aveți nevoie de o soluție adaptată?</h2>
+        <a class="button button-primary" href="/contact">{page.ctaButton}</a>
+      </div>
+    </div>
+  </section>
+</MainLayout>

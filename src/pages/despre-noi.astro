@@ -1,0 +1,47 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { siteData } from "../data/site";
+
+const page = siteData.about;
+---
+
+<MainLayout title={page.title} description={page.description}>
+  <section class="page-hero">
+    <div class="container">
+      <p class="eyebrow">{page.eyebrow}</p>
+      <h1>{page.heading}</h1>
+      <p class="page-copy">{page.intro}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="split-grid">
+        <article class="card">
+          <h3>{page.missionTitle}</h3>
+          <p>{page.missionText}</p>
+        </article>
+
+        <article class="card">
+          <h3>{page.capabilitiesTitle}</h3>
+          <p>{page.capabilitiesText}</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-band">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Valori</p>
+        <h2>{page.valuesTitle}</h2>
+      </div>
+
+      <div class="list-panel">
+        <ul class="feature-list">
+          {page.values.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+</MainLayout>

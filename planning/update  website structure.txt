@@ -1,0 +1,838 @@
+Perfect — here’s a **clear, build-ready wireframe** for the website.
+
+I’ll keep explanations in English, and all **on-page text in Romanian** so you can plug it directly into design/dev.
+
+---
+
+# 🧱 1. Homepage Wireframe (Acasă)
+
+![Image](https://images.openai.com/static-rsc-4/aHw2KGZRvKxwqsUuQhtCofbHw3ZHzg0R5eBGbYeORWLOVqB-3n2zuFMLqPHsRgKYGGoaqIlSmiolQfuXLSkL9UoDO-LanOLOejFGFk1Kcg6oDlhsYlFlonEa8Tt7APJlns3NzChuCu_Yl8Gk_z9-6on7qFNfGTclTOS8nsp8JhY3CpuE846YGaMrxHHd5ANW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5o8vJP-pauvT483I3HWov6qBeATPVZH1XBZbuqVXtiuHkvZKLyomPoQaYL9PhSNhRQU8HBGqWph2S20XZERHGfhqANJi94GxsBWf6mGBv_6T2P5MlffNhT72Vz8dZtyOeP1QdnwFPv-dcSpQ9_HyL8_qv3UWVZhql1BRuNF95Qp4x1bsjQMLSLZrDXFYegTs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/48tpxS94wyubEVarafol_8mcyTbUOexp-Qk7oz8-qW9NEeCIUyL56TZTNu6RCBOGieI8mGVuH_OPD1WvhG2QmtqYIkU6p_QqxXtPYsKAAuf21qfuCnTqdquiFcqP3AVahvTUxP2LuhFF5warJ-VxuF5xJmL_7iVixkvyxeKL3qGcVtzx8P3wK2Qsf0e66Dfo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xfEXEWb8Pao_VfZEikIkIjetOlL9fWGrVJtV492EGaiGypDonuS-ZT8PKmAKSgN2vFmphXq3OdF6EsrkQhGfTp19o4EuAJb9Imodi-DCMegsQVv2OMRJ-t0_Ni1q6oHPNpy31g8apHNLEizfc84mZntowHS7eerFLnmRRFKDqJXYhBSpSDKaN9jwZxQADA6k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0Qi0tAUxg8Gwdk16i-Aj6kEgnowI4sDp5v-N57gqOEk78aoIzH1kTxjFTo7m7u5jYA7tVXfLuD5Fys4TMC0l5y4r9_0sD4iK7-6IF2u8hmrd71gwV_qmCSXgal3nfy7AYMxLxJ3A2Egp1x-u6LetQ2D6NPH7WlzbQar3i68KjmZmvZpoybYWHjThENruMbEF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/34NCxZDfN4Z6RfrQ5rKeXytcMmgtOq9ghTh1-gb2AYxSSNXJylS5o5QpSWZvw9eEr4Qr4MGkx5YkFW0AEzXKxw_kaLn0wtk1d3L0JqgYNqvH9AHinwFW6KicRxQGdxTGTyh8IARoJVzmrMCXTAqpYC1QkqXtwS2jij1lk79jyPT4JY8zIyCK8l8WwVHCl-3Q?purpose=fullsize)
+
+## 🔲 Structure (top → bottom)
+
+### 🔹 Header (Navigation bar)
+
+* Logo (left)
+* Menu (right):
+
+  * Acasă
+  * Sisteme de pompare
+  * Producție la comandă
+  * Despre noi
+  * Contact
+* CTA button: **Solicită ofertă**
+
+---
+
+### 🔹 Hero Section
+
+**Layout:** Left text / Right image
+
+**Text (RO):**
+
+* H1:
+  **Soluții de pompare pentru aplicații industriale**
+* Subtext:
+  Sisteme pentru creșterea presiunii, stingerea incendiilor și managementul apei
+* Button:
+  **Solicită ofertă**
+
+---
+
+### 🔹 Services Overview (2 columns)
+
+**Block 1:**
+
+* Title: **Sisteme de pompare**
+* Text:
+  Soluții complete pentru aplicații industriale și civile
+* Link: **Detalii**
+
+**Block 2:**
+
+* Title: **Producție la comandă**
+* Text:
+  Servicii de fabricație pentru parteneri externi
+* Link: **Detalii**
+
+---
+
+### 🔹 Applications (icons or grid)
+
+**Title:**
+**Domenii de aplicare**
+
+**Items:**
+
+* Industrie
+* Clădiri
+* Infrastructură apă
+* Protecție incendiu
+
+---
+
+### 🔹 Advantages (3–4 columns)
+
+**Title:**
+**De ce să ne alegeți**
+
+* Fiabilitate
+* Soluții personalizate
+* Experiență tehnică
+* Respectarea standardelor
+
+---
+
+### 🔹 CTA Banner
+
+**Full-width section**
+
+Text:
+**Aveți un proiect? Contactați-ne pentru o ofertă**
+
+Button:
+**Trimite solicitare**
+
+---
+
+### 🔹 Footer
+
+* Quick links
+* Contact info
+* Email / Telefon
+* Copyright
+
+---
+
+# 💧 2. Pumping Systems Page Wireframe
+
+![Image](https://images.openai.com/static-rsc-4/cRuNc0q-wccp4gutZadmkneaLqZSr_tNa4ls9znXw9PwQpBJXyCy0acCRx16e2lBES_tY_8ygCcNDjvRptMwi_K1ninamYEkoXXAAUk0Ffi4CJ3VPKipne7WWiwVfZ1BAlB4t9FbyBpzdKVuA95u3JtmjQUDNNmOPKza3_ljKW-9cHax08T9AWZ73rk5T2m3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ju991n6xufWH3cxKw6R-swHv2aAAy6wXeh3tHgzz_JP6z3FgH-2rEuIg_Dpmq-bCd9bYQGPZIegwnU_gpG9s4iplO--YIBjz6iy-JPaCksPmIHAOO5xplAcuLAO0HGJobzaRqjqTQ053JU_rjQE4aw1MffzvPlZ32u-ohCIUPO7oC90EfGjSUEcqkV9uSZeN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bW5UJmGUI0J0TexMWB3u3KOD57AsvPN0DdJE4GOngCJASy_C_B2AdSuWZl-wlsMfc_KXcLMnJvdJDG59VLek2Td5Lw_2oAwTaOkgqbNJePgEbb0jN07Hhen_lLhq7RjGx31MD-oR1rO3ugND6BD-TFvrPXU1pJmBfpGyd-bXhWWzrg4m8wZtJOIm8S2o4dRE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-4O0eVGFG0r7jrWn9QLc2NvjXwSZ81Ic1NsCLPKRsy5deMCmXO37c3szTWgp6s8nZ-RbYgC_UWhmeRh2yGBj9uM3NUVT2aUCb_J24FO1xzZhHZxYtxxbNabfHUGdAX-pnIrwGm1EqgbO3HheIMaMabAWuN_wRYy3SuO9VfbStcH3uEOp8mc8Sqd0kU1p-tKF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0Y96uO9cSp8oH5J1Ld06WCZgxAoNUET27hXqcInWTW0iw7XyINRfHN9RUuOzkEn1vdR_LwYlC8Niqovb1FOid3hPJPMyGZVlxJANQDgFL5IffQA2MXs0KsT2FNoQ16z6ZwY3k-c4KCWwyJ_SkkwiE16znGlYSOZbfeE9rAvEo1TihDbRzlknOgZykbI8yEYf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2xfJVOMKuaEnlqBF90PnCHTGrZQ0OaDnsyw0J6deFFtpstRxIGd-yjPPV2iqComYm80zXUj8ZDxuNb67GRWzbLL6zVKWN0vtgeaU961JYLQOpcK7XjVVjYHWWWNs1svCKdA6Vt0p2j9ZRkrqRUT1NXFMSG6RdfwQJvAS3Q5iSVBHJo0_WU4TwU39BI1fvuqJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3zDSx8jQWzZmvV_kigtUEEywZLvc3PArl8J1KclTxGrY3IORKejfqFir9hYokLhWYwFGg4u6gedX7cLuN0R4atzdy4Bua1LDYT4hCDFWt6gSqjsEKzdhYKYv14Gy1sLmtLEZihv6ubZerSb2ML3J8Gsbv6zp9JKPpQ5MjGKmoSq7Ucp4UKyD_DgynzniB-kA?purpose=fullsize)
+
+## 🔲 Structure
+
+### 🔹 Hero
+
+* Title:
+  **Sisteme de pompare**
+* Subtitle:
+  Soluții adaptate pentru aplicații industriale și civile
+
+---
+
+### 🔹 Intro Text
+
+Short paragraph explaining specialization
+
+---
+
+### 🔹 System Types (3 blocks)
+
+#### 1. Creștere presiune
+
+Text + image
+
+#### 2. Stingere incendii
+
+Text + image
+
+#### 3. Managementul apei
+
+Text + image
+
+---
+
+### 🔹 Process (horizontal steps)
+
+**Title:**
+**Procesul nostru**
+
+Steps:
+
+* Analiză
+* Configurare
+* Asamblare
+* Testare
+
+---
+
+### 🔹 Benefits
+
+* Performanță
+* Fiabilitate
+* Adaptabilitate
+
+---
+
+### 🔹 CTA
+
+**Solicită ofertă**
+
+---
+
+# 🏭 3. Contract Manufacturing Wireframe
+
+![Image](https://images.openai.com/static-rsc-4/IprOyLFYofuVV0UpsV6lsQXRSEcekSu2J9m1ZSFTwAadXDZyvlNA9slYWzOHuDO5SLQ8ADtlIDjrQiQb9XYvwaldkypEh9QlvCFIpEGFM_Z5aA6KTdwxyK07SdRsmL6je0SUBYU-L3OJrsGjOFTGzfuxAgU9XIVMkN67vicBa7OM8FNCZxLeO_CccvPS_IB7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xENn8ogfYvuso_C86e0BPLh-0i2-5aEggb7zvrYjUn8cr9lPCEmg28LA0Fk4LgPMbkVIAQmV6CtBj0R74exaUV6gDKZ_MwfolmwxQ7FBw3zrBUnDAgUrxfxj4ZvJDOXZapFLt7s6ZbmzTDUB82Q9VCwrx5fuPL6qWqPMuzgJfh1eq0LwB9Gu69D__k_24yru?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OtKvAEIR9RYi3q3kUx2ue1k0gGZ9ROfKKl6QvhJumQbXs070tqpmhGjF7L2FpsBPS0nYhAi-21XNpbgPODMqF8diN9_dcBNIUKd1-9uAd0zjddghXCPHpAb7ulxN0FPakRQi5lt2mw4kmokTUwKivN56gXybF1395HHxGEEvpaBk4VHl9roX_UpdKd3LkeIo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LgPJCwuCiqeY5geNqIY4XpZ_fSYUDUg-i1q_Cmro4ODsdWXyIfV6mwydEsazbX3j3Wx-VvjFvUBHhmVzhf4DvDjHrFMbfTbSM-miKriDOd4L0s9OciK_ZfI9wBQs9Ih7FTRrn056llj9Pp67dPROEGzvxJdL4UVtZYAm6fRGFlSMo6aI27ym9EUJPXYsUeRe?purpose=fullsize)
+
+## 🔲 Structure
+
+### 🔹 Hero
+
+**Producție la comandă**
+
+---
+
+### 🔹 Intro
+
+Text (RO):
+**Pe lângă activitatea principală, oferim servicii de fabricație pentru clienți externi.**
+
+---
+
+### 🔹 Capabilities (grid)
+
+#### Prelucrări mecanice
+
+#### Ștanțare
+
+#### Sudură
+
+(each = icon + short text)
+
+---
+
+### 🔹 What We Deliver
+
+* Componente metalice
+* Subansamble
+* Prototipuri
+* Serii
+
+---
+
+### 🔹 Target Clients
+
+Text:
+**Ne adresăm companiilor industriale care au nevoie de un partener de producție fiabil.**
+
+---
+
+### 🔹 CTA
+
+**Trimite cerere**
+
+---
+
+# 🏢 4. About Page Wireframe
+
+![Image](https://images.openai.com/static-rsc-4/3DYElcqa8hywbkW7MBsbhfb2lUNDNkY4LH3DRDnqLcJwee7b_aSYE0opU0NgHkxYserqiCGbOd-quIHIPzZxQKVJD4QLrspK-2Y1JQmX1nvxt4bLNb9CSrLjlot5_W6IVjF6vmLAXfJpWbPh_2hylUwj8oBdRRiaoqwuyA3-qdDanJYty6Lri3xznlpUcnEe?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XakJ6v5qQMB8GG3uvhyUETTH9ZYrFjX35LXiyt7sa3bzAQ2-lDPXY95vOuIHabDT8xW3ddV4pyukfyRCz9BQqkkyjCpTXAH0-71v881zbtwyVlc1v-ngG7LP0ihTYXUiJc9E-AkvZMjQVryd2DnX6qcK0JvfsIQP4Ck9YiX3EoCc7jNLqgBPt3AzGwN1UzSz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LgPJCwuCiqeY5geNqIY4XpZ_fSYUDUg-i1q_Cmro4ODsdWXyIfV6mwydEsazbX3j3Wx-VvjFvUBHhmVzhf4DvDjHrFMbfTbSM-miKriDOd4L0s9OciK_ZfI9wBQs9Ih7FTRrn056llj9Pp67dPROEGzvxJdL4UVtZYAm6fRGFlSMo6aI27ym9EUJPXYsUeRe?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ktdaulrnl8i2DZPLAmgQKp8XIYJLPbry-jpPeTDOh7JydjTO12tjpv2lPfFjkq0ghN7F8js3VCL726TC3Qeakkr6e-j5lg4edbRmkVM8B51Crmq61C5fDb9NN0MK69Td9lAsugrruCHWy8iiCCLYYE1llLPHjhmzFOzJ9DWNTmNIEdEpPPSbGWY63EUrc1jX?purpose=fullsize)
+
+## 🔲 Structure
+
+### 🔹 Hero
+
+**Despre noi**
+
+---
+
+### 🔹 Company Intro
+
+---
+
+### 🔹 Mission
+
+**Misiunea noastră**
+
+---
+
+### 🔹 Values (3–4 columns)
+
+* Calitate
+* Seriozitate
+* Flexibilitate
+
+---
+
+### 🔹 Capabilities
+
+Equipment + team
+
+---
+
+# 📞 5. Contact Page Wireframe
+
+![Image](https://images.openai.com/static-rsc-4/jS-e9e_4GgqC9y_Z6V9LY5s0hRKcwen0vv5V1Rs71tWrBgmhTR-ATJV9mv-np1kz-mHps7katma6ZPavXyXT3OHJ1bdPTPuKIQcc7E_yddKwjQHKtu_mGNZs5EvrZuWmNqRULEDyYDV-DFjv7IhfUwjWI0JFq00FMBTjIoZNxNqi_Y6Dz2-KnrXq-MMJqvAK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EZKk-KChnc8JrYoyhezM9_4YvLl-vEqSoT9D2DoNXbBGLDWPG_23gghya00XJayZJe4ukEucztLM4FhKWhA-vS9DH0mF9hqF80XjwPGbPnbmAoX2oBCeUTZ5fNWP0AEuKfQpOszGudBlxyTi32adR1gCF-jJT9ezbDwu-0JZ_-9PaL6zxn7b4SBDMJZ1r_QE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/90EWStqoYKIukIMYN5g7mYDZUYY3a62gz5nVQilhgWc1DBZXpvOqBC5Crj6rybl55KNVGVWCWpDt47hvpnDNZ5q9hISs192-WPEke3x2MGgZ24GBsH9zlTGy_jibLQWFESZ9Q8L8cpeuMumVC6Qg7J1MmaKLi6AppJUQj9q_ezgn9pSk7gEuDq5DQ5d2DBUG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/H67nGdc-f0_g1WWuJrDH237SUCMwLCzNZxz7wQxC2hEp8HvFxRdMQcQSfGwOgHzFpNBUUWbhcsm-p9Oi4acmI-Yx6tByltKcmyngKadxQn9ZeuIL9PICiFD5qEk_8l2Robb3KWfzUR8EZjxi_6aSsMoqXXqIxhkv9vE4Zb5kk20qK57Qz7_rtkXiaI399HVB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TnRteLd6mEZW225bPQv9_5Mk-Is6oA0hGKMlnnUAa4EKF9k_ozWTWkOvSaX26hNAkFyHbeeLdN5YHSqjjM9wBmPe6xdv6wZRoQ5JW_J67m21pFU985MWpdLk4qgys76iTaVfPKz3WCn_n8UV8ieocSRDxeuMy-OJhpgekvc6Nk0lDxyhbnPUn8f8CDJGYgVT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/v5AaUXEIf1gKQbT8QHJ0Woe4mDh6hms8THIsQl4UhfaZ04mevZD6W4tHFHPLl4WAoIxGRjLx5mPV8u2yZgByZclX1pD6U06biW64YQ5dtbpbRcwYO09M2Bd1MwfeTt5zBz41GmMS9Kg4z5NQt-5lT-2TyF2SFbsoj9w01jFDVXS7XwK4c2DQvsewfgZkoOWx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3aRFVUAxYWiH1vHGWNw4kw0CPTKoKmfbS9psk38J5EJ4gXj2Go7ZVT_L2lttu3cER7HokvktD1HMs9vewoh4GqDhlRbFuKo93fa5ruR3K-OSpgNsCDozaqStW9H-DQMdI1avHfko8DE2r4B3f-njH3ZZ3DDYd8k6xU2FxSDfPSFOvsSFxK7Umjejjc3feMch?purpose=fullsize)
+
+## 🔲 Structure
+
+### 🔹 Title
+
+**Contact**
+
+---
+
+### 🔹 2-column layout
+
+#### Left:
+
+* Adresă
+* Telefon
+* Email
+
+#### Right:
+
+Form:
+
+* Nume
+* Companie
+* Email
+* Mesaj
+
+Button:
+**Trimite**
+
+---
+
+### 🔹 Map (optional)
+
+---
+
+# 🧭 UX Notes (important)
+
+* Keep design **clean, industrial, minimal**
+* Use **real photos if possible** (factory, welding, pumps)
+* Avoid clutter → this is B2B, not e-commerce
+* Always include **CTA buttons** on every page
+
+---
+
+# 🚀 If you want next step
+
+I can now:
+
+* turn this into a **Figma-ready layout**
+* generate a **Webflow / WordPress structure**
+* or design **actual UI (colors, fonts, style guide)**
+
+Just tell me 👍
+
+
+Got it — let’s integrate your actual logo into the wireframe and adjust the design so it fits the brand properly.
+
+---
+
+# 🎨 Brand Integration (based on your logo)
+
+From your logo:
+
+* **Primary color:** dark blue
+* **Accent color:** orange
+* **Style:** industrial, clean, technical
+
+👉 This means the website should feel:
+
+* professional
+* minimal
+* slightly technical (not flashy)
+
+---
+
+# 🏠 Updated Homepage Wireframe (with your logo)
+
+## 🔹 Header (Top Bar)
+
+**Layout:**
+
+* Left: LOGO (your uploaded “tricomserv pompe”)
+* Right: Menu
+* Far right: CTA button
+
+**Structure:**
+
+```
+[ LOGO ]     Acasă | Sisteme de pompare | Producție la comandă | Despre noi | Contact     [Solicită ofertă]
+```
+
+**Design notes:**
+
+* White background
+* Thin bottom border (light gray)
+* CTA button in **orange**
+
+---
+
+## 🔹 Hero Section (Adjusted to Brand)
+
+**Layout:** Left text / Right image
+
+**Background:** white or very light gray
+
+**Romanian content:**
+
+**H1:**
+Soluții de pompare pentru aplicații industriale
+
+**Subtext:**
+Sisteme pentru creșterea presiunii, stingerea incendiilor și managementul apei
+
+**Buttons:**
+
+* Primary: **Solicită ofertă** (orange)
+* Secondary: **Vezi soluțiile** (outline, blue)
+
+**Visual suggestion:**
+
+* Use clean industrial image (pump skid / pipes)
+* Avoid clutter — keep it technical
+
+---
+
+## 🔹 Color Usage (Important)
+
+* **Blue (logo color):**
+
+  * headings
+  * navigation
+  * icons
+
+* **Orange (logo accent):**
+
+  * buttons
+  * highlights
+  * hover states
+
+* **White / light gray:**
+
+  * background
+
+👉 This keeps everything consistent with your logo.
+
+---
+
+# 💧 Sisteme de pompare Page (with branding)
+
+## 🔹 Hero
+
+* Title in **dark blue**
+* Thin orange underline (subtle brand detail)
+
+Example:
+
+**Sisteme de pompare**
+*(orange line below title)*
+
+---
+
+## 🔹 Sections
+
+Use:
+
+* blue titles
+* gray text
+* small orange icons or accents
+
+---
+
+# 🏭 Producție la comandă (visual tone)
+
+This page should feel slightly more “industrial”.
+
+**Visual style:**
+
+* darker images (machining, welding)
+* strong contrast
+* minimal text blocks
+
+**Important:**
+Keep it secondary visually — don’t overpower the main business.
+
+---
+
+# 🧱 Layout System (Consistency)
+
+Use this pattern across all pages:
+
+### Section structure:
+
+* Title (blue)
+* Short paragraph
+* Visual or grid
+* Spacing (important — don’t crowd)
+
+---
+
+# 🔘 Buttons (standard)
+
+Primary button:
+
+* Background: **orange**
+* Text: white
+* Rounded: slight (not too soft)
+
+Secondary:
+
+* Border: blue
+* Text: blue
+
+---
+
+# 🧭 Footer (with logo)
+
+## Layout:
+
+```
+[ LOGO ]
+
+Linkuri rapide:
+- Acasă
+- Sisteme de pompare
+- Producție la comandă
+- Contact
+
+Contact:
+Telefon | Email | Adresă
+```
+
+**Background:** dark blue
+**Text:** white
+
+---
+
+# 📐 Final UX Impression
+
+With your logo integrated, the site will feel:
+
+* industrial and credible
+* technically competent
+* clean and easy to navigate
+
+---
+
+# 🚀 Next step (highly recommended)
+
+Now that branding is clear, I can:
+
+* create a **pixel-level UI mockup (like Figma design)**
+* define **exact colors (HEX), fonts, spacing system**
+* or build a **ready-to-develop layout (CSS structure)**
+
+Just tell me 👍
+
+Perfect — let’s lock this down into a **proper design system** your designer or developer can use directly.
+
+I’ll base everything on your logo and keep it practical (not theoretical).
+
+---
+
+# 🎨 1. Color System (Exact Values)
+
+Based on your logo, here’s a clean and realistic palette:
+
+## 🔹 Primary Colors
+
+**Dark Blue (main brand)**
+
+* HEX: `#1F4E79`
+* Usage:
+
+  * headings
+  * navigation
+  * icons
+  * footer background
+
+**Orange (accent)**
+
+* HEX: `#E5532D`
+* Usage:
+
+  * buttons
+  * highlights
+  * links (hover)
+
+---
+
+## 🔹 Neutral Colors
+
+**Dark Text**
+
+* HEX: `#2B2B2B`
+
+**Body Text**
+
+* HEX: `#555555`
+
+**Light Gray Background**
+
+* HEX: `#F5F7F9`
+
+**Border Gray**
+
+* HEX: `#E0E0E0`
+
+**White**
+
+* HEX: `#FFFFFF`
+
+---
+
+## 🔹 Color Rules (important)
+
+* Use **blue for structure**
+* Use **orange only for actions (CTA)**
+* Keep backgrounds mostly **white/light gray**
+
+👉 This keeps it industrial and not “overdesigned”
+
+---
+
+# 🔤 2. Typography System
+
+## 🔹 Font Pairing (clean & industrial)
+
+### Headings:
+
+**Montserrat**
+
+* modern, technical, slightly strong
+
+### Body:
+
+**Open Sans**
+
+* very readable, safe for Romanian
+
+---
+
+## 🔹 Font Sizes
+
+### H1 (Hero title)
+
+* 48px desktop
+* 36px tablet
+* 28px mobile
+* Weight: 600
+
+---
+
+### H2 (Section titles)
+
+* 32px
+* Weight: 600
+
+---
+
+### H3 (Subsections)
+
+* 22–24px
+* Weight: 600
+
+---
+
+### Body text
+
+* 16px
+* Weight: 400
+
+---
+
+### Small text
+
+* 14px
+
+---
+
+## 🔹 Line Height
+
+* Headings: **1.2–1.3**
+* Body: **1.6**
+
+---
+
+# 📏 3. Spacing System (VERY important)
+
+Use a consistent spacing scale:
+
+## 🔹 Base unit: **8px**
+
+Everything should follow multiples of 8:
+
+* 8px
+* 16px
+* 24px
+* 32px
+* 48px
+* 64px
+* 80px
+
+---
+
+## 🔹 Section Spacing
+
+* Top/bottom padding:
+
+  * **80px desktop**
+  * **48px mobile**
+
+---
+
+## 🔹 Content Width
+
+* Max width: **1200px**
+* Centered
+
+---
+
+## 🔹 Grid
+
+* 12-column grid (standard)
+* Gutter: **24px**
+
+---
+
+# 🔘 4. Buttons
+
+## 🔹 Primary Button
+
+* Background: `#E5532D`
+* Text: white
+* Padding: `12px 24px`
+* Border radius: `4px`
+* Font weight: 600
+
+**Hover:**
+
+* Darker orange: `#CC4523`
+
+---
+
+## 🔹 Secondary Button
+
+* Border: `2px solid #1F4E79`
+* Text: `#1F4E79`
+* Background: transparent
+
+**Hover:**
+
+* Background: blue
+* Text: white
+
+---
+
+# 🧱 5. Layout Rules
+
+## 🔹 Sections
+
+Each section should follow:
+
+* Title
+* Short intro
+* Content (grid or image)
+
+Spacing between sections:
+👉 **80px**
+
+---
+
+## 🔹 Cards (for services)
+
+* Background: white
+* Border: `1px solid #E0E0E0`
+* Padding: 24px
+* Radius: 6px
+
+---
+
+# 🧭 6. Navigation
+
+* Height: 72px
+* Font: 16px
+* Active item: **blue + underline or bold**
+
+CTA button always visible:
+👉 **Solicită ofertă**
+
+---
+
+# 🦶 7. Footer
+
+* Background: `#1F4E79`
+* Text: white
+* Links: light gray
+
+Spacing:
+
+* Padding: 48px
+
+---
+
+# 🧠 Final Design Feel
+
+If implemented correctly, the site will feel:
+
+* industrial
+* clean
+* trustworthy
+* technically competent
+
+NOT:
+
+* flashy
+* crowded
+* overly “creative”
+
+---
+
+# 🚀 If you want next step
+
+I can now:
+
+* turn this into a **Figma-ready spec (with layout frames)**
+* generate **CSS / Tailwind code**
+* or create a **homepage visual mockup**
+
+Just tell me 👍

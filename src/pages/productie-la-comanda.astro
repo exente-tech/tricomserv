@@ -1,0 +1,76 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { siteData } from "../data/site";
+
+const page = siteData.manufacturing;
+---
+
+<MainLayout title={page.title} description={page.description}>
+  <section class="page-hero">
+    <div class="container">
+      <h1>{page.heading}</h1>
+      <p class="page-copy">{page.intro}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-heading">
+        <p class="section-label">Fabricație</p>
+        <h2>{page.capabilitiesTitle}</h2>
+      </div>
+
+      <div class="card-grid three">
+        {page.capabilities.map((item) => (
+          <article class="card">
+            <h3>{item.title}</h3>
+            <p>{item.intro}</p>
+            <ul class="feature-list">
+              {item.points.map((point) => <li>{point}</li>)}
+            </ul>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-band">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Livrabile</p>
+        <h2>{page.deliverTitle}</h2>
+      </div>
+
+      <div class="list-panel compact-panel">
+        <ul class="feature-list">
+          {page.deliverItems.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split-grid">
+      <div>
+        <p class="section-label">Clienți</p>
+        <h2>{page.targetTitle}</h2>
+      </div>
+
+      <div class="list-panel">
+        <p>{page.targetText}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section cta-banner-section">
+    <div class="container">
+      <div class="cta-banner">
+        <div>
+          <h2>{page.ctaTitle}</h2>
+          <p class="cta-copy">{page.ctaText}</p>
+        </div>
+        <a class="button button-primary" href="/contact">{page.ctaButton}</a>
+      </div>
+    </div>
+  </section>
+</MainLayout>

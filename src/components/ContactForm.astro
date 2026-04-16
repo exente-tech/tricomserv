@@ -1,0 +1,155 @@
+---
+import { siteData } from "../data/site";
+
+const formConfig = siteData.contactForm;
+const site = siteData.site;
+---
+
+<form
+  class="contact-form"
+  data-endpoint={site.formEndpoint}
+  data-tenant-name={site.tenantName}
+  data-source={formConfig.source}
+  data-default-request-type={formConfig.defaultRequestType}
+  id="contact-form"
+>
+  <div class="field-grid">
+    <label>
+      {formConfig.labels.fullName}
+      <input name="name" autocomplete="name" required />
+    </label>
+
+    <label>
+      {formConfig.labels.company}
+      <input name="company" autocomplete="organization" />
+    </label>
+  </div>
+
+  <div class="field-grid">
+    <label>
+      {formConfig.labels.email}
+      <input name="email" type="email" autocomplete="email" required />
+    </label>
+  </div>
+
+  <label class="honeypot">
+    {formConfig.labels.honeypot}
+    <input name={formConfig.honeypotName} tabindex="-1" autocomplete="off" />
+  </label>
+
+  <label>
+    {formConfig.labels.message}
+    <textarea name="message" rows="6" required></textarea>
+  </label>
+
+  <div class="form-actions">
+    <button class="button button-primary" id="contact-submit" type="submit">{formConfig.submitLabel}</button>
+    <p class="form-meta">{formConfig.meta}</p>
+  </div>
+
+  <p class="form-status" id="form-status" aria-live="polite"></p>
+</form>
+
+<script is:inline define:vars={{ formConfig }}>
+  const contactFormElement = document.getElementById("contact-form");
+  const formStatus = document.getElementById("form-status");
+  const contactSubmit = document.getElementById("contact-submit");
+
+  if (contactFormElement instanceof HTMLFormElement && formStatus) {
+    contactFormElement.addEventListener("submit", async (event) => {
+      event.preventDefault();
+
+      if (!contactFormElement.reportValidity()) {
+        return;
+      }
+
+      const formData = new FormData(contactFormElement);
+      const honeypotField = String(formData.get("website") || "").trim();
+
+      if (honeypotField) {
+        contactFormElement.reset();
+        formStatus.textContent = formConfig.statusHoneypot;
+        return;
+      }
+
+      const payload = {
+        tenantName: contactFormElement.dataset.tenantName || "",
+        requestType: "contact",
+        projectType: contactFormElement.dataset.defaultRequestType || "",
+        name: String(formData.get("name") || "").trim(),
+        email: String(formData.get("email") || "").trim(),
+        company: String(formData.get("company") || "").trim(),
+        phone: "",
+        message: String(formData.get("message") || "").trim(),
+        source: contactFormElement.dataset.source || "website-contact-form",
+        page: window.location.href
+      };
+
+      const endpoint = contactFormElement.dataset.endpoint;
+
+      if (!endpoint) {
+        formStatus.textContent = formConfig.statusMissingEndpoint;
+        return;
+      }
+
+      if (contactSubmit instanceof HTMLButtonElement) {
+        contactSubmit.disabled = true;
+        contactSubmit.textContent = formConfig.submitPendingLabel;
+      }
+
+      formStatus.textContent = formConfig.statusSubmitting;
+
+      try {
+        const response = await fetch(endpoint, {
+          method: "POST",
+          mode: "cors",
+          headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json"
+          },
+          body: JSON.stringify(payload)
+        });
+
+        let responseData = null;
+        try {
+          responseData = await response.json();
+        } catch {
+          responseData = null;
+        }
+
+        if (!response.ok) {
+          const apiMessage = responseData && typeof responseData.message === "string"
+            ? responseData.message
+            : "Request failed.";
+          throw new Error(`${response.status}: ${apiMessage}`);
+        }
+
+        if (responseData && responseData.success === false) {
+          throw new Error(responseData.message || "The API did not accept the inquiry.");
+        }
+
+        contactFormElement.reset();
+        formStatus.textContent = formConfig.statusSuccess;
+      } catch (error) {
+        console.error("Inquiry submission failed:", error);
+
+        const errorMessage = error instanceof Error ? error.message : "";
+
+        if (errorMessage.startsWith("429:")) {
+          formStatus.textContent = formConfig.statusRateLimited;
+        } else if (errorMessage) {
+          formStatus.textContent = errorMessage.includes(":")
+            ? errorMessage.split(":").slice(1).join(":").trim()
+            : errorMessage;
+        } else {
+          formStatus.textContent = formConfig.statusFallback;
+        }
+      } finally {
+        if (contactSubmit instanceof HTMLButtonElement) {
+          contactSubmit.disabled = false;
+          contactSubmit.textContent = formConfig.submitLabel;
+        }
+      }
+    });
+  }
+</script>
